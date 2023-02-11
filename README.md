@@ -4,7 +4,7 @@
 
 <img align="right" src="https://images.unsplash.com/photo-1503437313881-503a91226402?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80" alt="coding" width="400">
 
-- 🔭 I’m currently working on **artificial intelligence**.
+- 🔭 I’m currently working on projects related to **artificial intelligence**.
 
 - 🌱 I’m currently learning **backend development**.
 
