@@ -1,6 +1,6 @@
 ![logo](Top.png)
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
-<h3 align="center">A 3rd year Computer Science student, eager to explore new techs.</h3>
+<h3 align="center">A passionate software developer at Accenture, eager to explore new techs.</h3>
 
 <img align="right" src="https://images.unsplash.com/photo-1503437313881-503a91226402?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80" alt="coding" width="400">
 
