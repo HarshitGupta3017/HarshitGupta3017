@@ -23,9 +23,9 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitGupta3017&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="130px"/>
-  <img src="https://streak-stats.demolab.com?user=HarshitGupta3017&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="130px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGupta3017&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=3" alt="Top Languages" height="130px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitGupta3017&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="150px"/>
+  <img src="https://streak-stats.demolab.com?user=HarshitGupta3017&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGupta3017&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=3" alt="Top Languages" height="150px"/>
 </p>
 
 ## 🌐 Connect with Me:
