@@ -2,8 +2,8 @@ name: GitHub Snake Game
 
 on:
   # Schedule the workflow to run every 12 hours
-  schedule:
-    - cron: "0 */12 * * *"
+  # schedule:
+  #   - cron: "0 */12 * * *"
   # Allow manual triggering of the workflow
   workflow_dispatch:
   # Trigger the workflow on pushes to the main branch
